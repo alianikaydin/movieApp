@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie Application</string>
+    <string name="title_activity_movie_list">Movie</string>
+    <string name="movie_tabs_page">Movie Tabs Page</string>
+    <string name="movie_details_page">Movie Details Page</string>
+    <string name="movie_top_rated">Top Rated</string>
+    <string name="movie_upcoming">Upcoming</string>
+    <string name="movie_now_playing">Now Playing</string>
+    <string name="add_fav">Add Favourites</string>
+    <string name="remove_fav">Remove From Favourite</string>
+    <string name="favourites">Favourites</string>
+
+
+</resources>
